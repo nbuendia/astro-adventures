@@ -4,12 +4,12 @@ import SpaceScene from "./scenes/spaceScene";
 const config = {
   type: Phaser.AUTO,
   scene: [SpaceScene],
-  width: 800,
+  width: 1000,
   height: 600,
   physics: {
     default: "arcade",
     arcade: {
-      gravity: { y: 200 },
+      debug: false,
     },
   },
 };
