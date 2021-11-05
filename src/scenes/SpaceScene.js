@@ -49,7 +49,7 @@ class SpaceScene extends Phaser.Scene {
       frameWidth: 32,
       frameHeight: 32,
     });
-    this.load.spritesheet("shield", "assets/ship_shield2.png", {
+    this.load.spritesheet("shield", "assets/ship_shield.png", {
       frameWidth: 64,
       frameHeight: 64,
     });
