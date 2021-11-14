@@ -52,8 +52,13 @@ Im consistantly looking to improve what I started here. I'd like to add a:
 
 ## Docs
 
-- [Boilerplate](https://github.com/Jerga99/phaser-webpack-boilerplate)
-- [Boilerplate Creator](https://github.com/Jerga99)
+Want to clone the Boilerplate I used for this project?
+
+- Boilerplate GitHub Repo Link [Boilerplate](https://github.com/Jerga99/phaser-webpack-boilerplate)
+
+Want to see other boilerplates Filip Jerga has? Checkout his GitHub!
+
+- Boilerplate Creator GitHub [Filip Jerga](https://github.com/Jerga99)
 
 ## Social Media
 
