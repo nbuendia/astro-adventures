@@ -50,6 +50,11 @@ Im consistantly looking to improve what I started here. I'd like to add a:
 - Would like to also add some background music and sound effects to make the gameplay more interactive.
 - Ultimately I'd like to add levels with different intensities, music/sound effects and background.
 
+## Docs
+
+- [Boilerplate](https://github.com/Jerga99/phaser-webpack-boilerplate)
+- [Boilerplate Creator](https://github.com/Jerga99)
+
 ## Social Media
 
 <p align="center">
